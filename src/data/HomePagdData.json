@@ -1,0 +1,307 @@
+{
+  "hero": {
+    "imgUrl": "/images/home-nanda-2.png",
+    "name": "Nanda Raditya",
+    "heading": "Hay! I’m Nanda",
+    "typingText": ["I'm a Developer", 1500, "I'm a UI/UX Designer", 1500],
+    "description": "I am a UI/UX Designer and Front-end Developer who is able to create engaging and highly competitive digital experiences. With a focus on innovative design and responsive development, I combine design and technical expertise to deliver stunning and functional solutions. Let's explore my works that combine inspiring aesthetics with powerful function",
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "socialBtns": [
+    {
+      "icon": "fa-brands:instagram",
+      "iconBgClass": "instagram",
+      "href": "https://www.instagram.com/nandaradityaya/"
+    },
+    {
+      "icon": "fa-brands:behance",
+      "iconBgClass": "behance",
+      "href": "https://www.behance.net/nandaraditya"
+    },
+    {
+      "icon": "fa-brands:linkedin-in",
+      "iconBgClass": "linkedin",
+      "href": "https://www.linkedin.com/in/nanda-raditya-140115226/"
+    }
+  ],
+  "brands": [
+    {
+      "src": "/images/figma-logo.png",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/html-logo.png",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/javascript-logo.png",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/react-logo.png",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/flutter-logo.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/css-logo.png",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/xd-logo.png",
+      "alt": "Logolpsum"
+    }
+  ],
+  "about": {
+    "imgSrc": "/images/nanda.jpg",
+    "miniTitle": "About Me",
+    "title": "I AM AVAILABLE FOR <span>UI UX DESIGN</span> PROJECTS",
+    "description": "I am a UI/UX Designer and Front-end Developer with a deep love for creating amazing digital experiences. With a background in design and development, I believe that a combination of creativity and technicality is the key to creating great products. Over the years, I have explored various projects from concept to launch, enriching myself with extensive knowledge in the industry. From mobile apps to websites, I bring solid design and development skills to ensure each project reaches its maximum potential. I am excited to continue learning and collaborating with individuals and teams to design innovative and meaningful solutions. Welcome to explore more about me and my works",
+    "funfacts": [
+      {
+        "title": "Years Experience",
+        "number": 2
+      },
+      {
+        "title": "Completed Projects",
+        "number": 15
+      }
+    ],
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "projects": {
+    "sectionHeading": {
+      "miniTitle": "My Work",
+      "title": "RECENT PROJECT"
+    },
+    "allProjects": [
+      {
+        "thumbUrl": "/images/my-planet-mobile-2.jpg",
+        "title": "My Planet Enseval",
+        "subTitle": "Mobile App",
+        "details": {
+          "title": "E-learning App",
+          "description": "My Planet Enseval is an e-learning tools specifically designed to support the training process of trainers and employees in an industry. Through this tools, users will have access to learning modules in the form of videos and post tests are also available as an evaluation tool.",
+          "type": "Mobile App",
+          "language": "Flutter Framework, NodeJS, RestAPI, MySQL",
+          "tools": "Figma",
+          "country": "Indonesia",
+          "url": "https://play.google.com/store/apps/details?id=com.myplanet.enseval&hl=id&gl=US"
+        }
+      },
+
+      {
+        "thumbUrl": "/images/enseval-bootcamp.jpg",
+        "title": "Enseval Bootcamp",
+        "subTitle": "Web Design",
+        "details": {
+          "title": "Bootcamp website for Enseval Internship programs",
+          "description": "Enseval Bootcamp is a website used by Enseval Mentees in undergoing internship programs at Enseval, this website will be used for Mentees to make daily reports and will be used by mentors to assess their Mentees and issue their certificates",
+          "type": "Website",
+          "language": "HTML, CSS, Javascript, Bootstrap",
+          "tools": "Adobe XD",
+          "country": "Indonesia",
+          "url": "https://bootcamp.enseval.com/"
+        }
+      },
+
+      {
+        "thumbUrl": "/images/shamo-store.jpg",
+        "title": "Shamo Store",
+        "subTitle": "Mobile App",
+        "details": {
+          "title": "E-commerce App",
+          "description": "Shamo Store is an e-commerce platform that specifically presents the best collection of sneakers. a wide selection of trendy and exclusive sneakers can be found at Shamo Store, a place where style and comfort meet at every step.",
+          "type": "Mobile App",
+          "language": "Flutter, Laravel, MySQL",
+          "tools": "Figma",
+          "country": "Indonesia"
+        }
+      },
+      {
+        "thumbUrl": "/images/dashboard-design.jpg",
+        "title": "Dashboard Design",
+        "subTitle": "Web Design",
+        "details": {
+          "title": "Dashboard Design",
+          "description": "This dashboard is tailored for admins to monitor website data and perform regular maintenance tasks. With an intuitive interface, it offers insights into site performance, traffic analytics, content, and user management. Its advanced features make it an invaluable tool for ensuring optimal website performance.",
+          "type": "Website",
+          "tools": "Adobe XD",
+          "language": "HTML, CSS, Javascript, Bootstrap",
+          "country": "Indonesia"
+        }
+      },
+      {
+        "thumbUrl": "/images/bank-sha.jpg",
+        "title": "Sha Bank",
+        "subTitle": "Mobile App",
+        "details": {
+          "title": "E-wallet App",
+          "description": "Sha Bank is an innovative and practical e-wallet application, designed to make it easier for users to carry out various financial transactions digitally. With Sha Bank, you can access a number of features and benefits that make your financial life easier, safer and more efficient.",
+          "type": "Mobile App",
+          "language": "Flutter, Laravel, MySQL",
+          "tools": "Figma",
+          "country": "Indonesia"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-1.jpg",
+        "title": "My Planet Enseval",
+        "subTitle": "Website",
+        "details": {
+          "title": "E-learning Web",
+          "description": "My Planet Enseval is an e-learning tools specifically designed to support the training process of trainers and employees in an industry. Through this tools, users will have access to learning modules in the form of videos and post tests are also available as an evaluation tool.",
+          "type": "Website",
+          "language": "PHP, HTML, CSS, Javascript, Bootstrap",
+          "tools": "Adobe XD",
+          "country": "Indonesia",
+          "url": "https://myplanet.enseval.com/"
+        }
+      },
+
+      {
+        "thumbUrl": "/images/jalan-yuk.jpg",
+        "title": "Jalan Yuk",
+        "subTitle": "Web Design",
+        "details": {
+          "title": "Travel Web",
+          "description": "Jalan Yuk is an online platform that provides an unforgettable tourism experience for travelers. With a wide selection of travel packages tailored to your needs and interests, Jalan Yuk makes it easy for you to plan and book an exciting adventure without any hassle.",
+          "type": "Website",
+          "tools": "Figma",
+          "country": "Indonesia"
+        }
+      },
+      {
+        "thumbUrl": "/images/dct-psikotest.jpg",
+        "title": "DCT Psikotest",
+        "subTitle": "Web Design",
+        "details": {
+          "title": "Psikotest Web",
+          "description": "DCT Psychometric Test is an online recruitment platform designed for DCT recruitment teams. It features separate interfaces for administrators and users, facilitating seamless psychometric test processes. Admins can manage recruitment tasks efficiently, while candidates can conveniently complete psychometric tests online. With user-friendly functionalities, DCT Psychometric Test streamlines the recruitment journey for both administrators and candidates.",
+          "type": "Website",
+          "tools": "Figma",
+          "country": "Indonesia"
+        }
+      }
+    ]
+  },
+  "service": {
+    "sectionHeading": {
+      "miniTitle": "SERVICES",
+      "title": "<span>Services</span> I am providing"
+    },
+    "allService": [
+      {
+        "imgUrl": "/images/uiux-services-2.jpg",
+        "title": "UI/UX Design",
+        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "icon": "bi:brush-fill",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/web-dev-services.jpg",
+        "title": "Website Development",
+        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "icon": "bi:code-square",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/mobile-app-dev-services.jpg",
+        "title": "Mobile Apps Development",
+        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "icon": "bi:code-square",
+        "ratings": 4.5
+      },
+      {
+        "imgUrl": "/images/graphic-design-services-2.jpg",
+        "title": "Graphic Design",
+        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "icon": "bi:palette",
+        "ratings": 3
+      }
+    ]
+  },
+  "experience": {
+    "sectionHeading": {
+      "miniTitle": "Experience",
+      "title": "My Work <span>Experience</span>"
+    },
+    "allExperience": [
+      {
+        "designation": "UI/UX Engineer",
+        "company": "PT. Enseval Putera Megatrading, Tbk",
+        "duration": "Aug 2022 - Dec 2023",
+        "jobType": "Internship",
+        "companyTitle": "Job Desc",
+        "companyDescription": [
+          "Conducted in-depth research with potential users to understand their needs and preferences in the user experience.",
+          "Designed and developed initial wireframes as a foundational framework for product design.",
+          "Produced high-fidelity designs with a keen focus on visual details, consistency, and technical feasibility.",
+          "Created efficient user flows to guide users through the interaction process within the application or website.",
+          "Built a logical and easily understandable information architecture",
+          "Created functional design prototypes to illustrate user interface interactions and workflows.",
+          "Regularly conducted usability testing to gather feedback from users and refined designs based on findings.",
+          "Implemented user interface designs (UI Design) into front-end web code using technologies like HTML, CSS, and JavaScript",
+          "Implemented user interface designs (UI Design) into front-end mobile application code using Flutter technology",
+          "Collaborated closely with development teams and stakeholders to ensure alignment between design and product functionality",
+          "Ensured the final product adhered to design principles, performance standards, and user requirements"
+        ]
+      },
+      {
+        "designation": "Front-end Developer",
+        "company": "PT. Wisesa Consulting",
+        "duration": "JAN 2024 - PRESENT",
+        "jobType": "Full time",
+        "companyTitle": "About Company",
+        "companyDescription": [
+          "Design visually appealing and user-friendly websites with high-fidelity mockups.",
+          "Conduct usability testing to gather valuable user feedback for design refinement.",
+          "Implement user interface designs (UI Design) into front-end web code using technologies like HTML, CSS, and JavaScript, with a focus on ReactJS for dynamic and responsive solutions.",
+          "Develop and mantain design system",
+          "Collaborate closely with project managers and developers throughout the design and development process"
+        ]
+      }
+    ]
+  },
+  "testimonial": {
+    "sectionHeading": {
+      "miniTitle": "Testimonial",
+      "title": "Over <span>8,000+</span> <br /> PEOPLE TRUST ME"
+    },
+    "allTestimonial": [
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-1.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-2.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-3.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      }
+    ]
+  },
+  "contact": {
+    "sectionHeading": {
+      "title": "Get in Touch!",
+      "subTitle": "Feel free to contact me. I am always open to discussing new projects, creative ideas or opportunities to be part of your visions."
+    },
+    "contactImg": "/images/home-nanda-2.png",
+    "contactInfo": [
+      { "title": "e-mail", "email": "nandaraditya80@gmail.com" },
+      { "title": "phone", "tel": "+62 821 2477 6437" }
+    ]
+  }
+}
