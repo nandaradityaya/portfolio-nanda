@@ -32,7 +32,7 @@ export default function Header() {
               className="logo-light"
               title
               alt="Logo"
-              src="/images/logo-light.svg"
+              src="portfolio-nanda/images/logo-light.svg"
             />
           </Link>
         </div>

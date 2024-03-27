@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 export default function ContactInfo({ contactInfoData }) {
   return (
@@ -7,9 +7,9 @@ export default function ContactInfo({ contactInfoData }) {
         <div
           className="contact-info-in"
           key={index}
-          data-aos="fade-up"
-          data-aos-duration="1200"
-          data-aos-delay={index * 100}
+          // data-aos="fade-up"
+          // data-aos-duration="1200"
+          // data-aos-delay={index * 100}
         >
           <label>{item.title}</label>
           {item.email && <a href={`mailto:${item.email}`}>{item.email}</a>}

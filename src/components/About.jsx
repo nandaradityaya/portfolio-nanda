@@ -10,28 +10,28 @@ export default function About({ data }) {
       <div className="container">
         <div className="effect-1">
           <img
-            src="/images/effect-1.svg"
+            src="portfolio-nanda/images/effect-1.svg"
             alt="Shape"
             data-aos="zoom-in"
-            data-aos-duration="1200"
-            data-aos-delay="500"
+            data-aos-duration="1000"
+            data-aos-delay="300"
           />
         </div>
         <div className="effect-2">
           <img
-            src="/images/effect-2.svg"
+            src="portfolio-nanda/images/effect-2.svg"
             alt="Shape"
             data-aos="zoom-in"
-            data-aos-duration="1200"
-            data-aos-delay="400"
+            data-aos-duration="1000"
+            data-aos-delay="200"
           />
         </div>
         <div className="row align-items-center justify-content-center gy-5">
           <div
             className="col-lg-6 col-xl-5"
             data-aos="fade-right"
-            data-aos-duration="1200"
-            data-aos-delay="500"
+            data-aos-duration="1000"
+            data-aos-delay="300"
           >
             <div className="about-banner text-center">
               <img src={imgSrc} className="radius-10" alt="Thumb" />
@@ -41,8 +41,8 @@ export default function About({ data }) {
             <div
               className="about-text"
               data-aos="fade"
-              data-aos-duration="1200"
-              data-aos-delay="400"
+              data-aos-duration="1000"
+              data-aos-delay="200"
             >
               <div className="section-heading">
                 {miniTitle && (

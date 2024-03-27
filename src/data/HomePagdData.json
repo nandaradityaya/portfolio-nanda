@@ -1,6 +1,6 @@
 {
   "hero": {
-    "imgUrl": "/images/home-nanda-2.png",
+    "imgUrl": "portfolio-nanda/images/home-nanda-2.png",
     "name": "Nanda Raditya",
     "heading": "Hay! I’m Nanda",
     "typingText": ["I'm a Developer", 1500, "I'm a UI/UX Designer", 1500],
@@ -27,36 +27,36 @@
   ],
   "brands": [
     {
-      "src": "/images/figma-logo.png",
+      "src": "portfolio-nanda/images/figma-logo.png",
       "alt": "figma"
     },
     {
-      "src": "/images/html-logo.png",
+      "src": "portfolio-nanda/images/html-logo.png",
       "alt": "html"
     },
     {
-      "src": "/images/javascript-logo.png",
+      "src": "portfolio-nanda/images/javascript-logo.png",
       "alt": "javascript"
     },
     {
-      "src": "/images/react-logo.png",
+      "src": "portfolio-nanda/images/react-logo.png",
       "alt": "reactjs"
     },
     {
-      "src": "/images/flutter-logo.svg",
+      "src": "portfolio-nanda/images/flutter-logo.svg",
       "alt": "flutter"
     },
     {
-      "src": "/images/css-logo.png",
+      "src": "portfolio-nanda/images/css-logo.png",
       "alt": "css"
     },
     {
-      "src": "/images/xd-logo.png",
+      "src": "portfolio-nanda/images/xd-logo.png",
       "alt": "adobexd"
     }
   ],
   "about": {
-    "imgSrc": "/images/nanda.jpg",
+    "imgSrc": "portfolio-nanda/images/nanda.jpg",
     "miniTitle": "About Me",
     "title": "I AM AVAILABLE FOR <span>UI UX DESIGN</span> PROJECTS",
     "description": "I am a UI/UX Designer and Front-end Developer with a deep love for creating amazing digital experiences. With a background in design and development, I believe that a combination of creativity and technicality is the key to creating great products. Over the years, I have explored various projects from concept to launch, enriching myself with extensive knowledge in the industry. From mobile apps to websites, I bring solid design and development skills to ensure each project reaches its maximum potential. I am excited to continue learning and collaborating with individuals and teams to design innovative and meaningful solutions. Welcome to explore more about me and my works",
@@ -80,7 +80,7 @@
     },
     "allProjects": [
       {
-        "thumbUrl": "/images/my-planet-mobile-2.jpg",
+        "thumbUrl": "portfolio-nanda/images/my-planet-mobile-2.jpg",
         "title": "My Planet Enseval",
         "subTitle": "Mobile App",
         "details": {
@@ -95,7 +95,7 @@
       },
 
       {
-        "thumbUrl": "/images/enseval-bootcamp.jpg",
+        "thumbUrl": "portfolio-nanda/images/enseval-bootcamp.jpg",
         "title": "Enseval Bootcamp",
         "subTitle": "Web Design",
         "details": {
@@ -110,7 +110,7 @@
       },
 
       {
-        "thumbUrl": "/images/shamo-store.jpg",
+        "thumbUrl": "portfolio-nanda/images/shamo-store.jpg",
         "title": "Shamo Store",
         "subTitle": "Mobile App",
         "details": {
@@ -123,7 +123,7 @@
         }
       },
       {
-        "thumbUrl": "/images/dashboard-design.jpg",
+        "thumbUrl": "portfolio-nanda/images/dashboard-design.jpg",
         "title": "Dashboard Design",
         "subTitle": "Web Design",
         "details": {
@@ -136,7 +136,7 @@
         }
       },
       {
-        "thumbUrl": "/images/bank-sha.jpg",
+        "thumbUrl": "portfolio-nanda/images/bank-sha.jpg",
         "title": "Sha Bank",
         "subTitle": "Mobile App",
         "details": {
@@ -149,7 +149,7 @@
         }
       },
       {
-        "thumbUrl": "/images/popup-project-1.jpg",
+        "thumbUrl": "portfolio-nanda/images/popup-project-1.jpg",
         "title": "My Planet Enseval",
         "subTitle": "Website",
         "details": {
@@ -164,7 +164,7 @@
       },
 
       {
-        "thumbUrl": "/images/jalan-yuk.jpg",
+        "thumbUrl": "portfolio-nanda/images/jalan-yuk.jpg",
         "title": "Jalan Yuk",
         "subTitle": "Web Design",
         "details": {
@@ -176,7 +176,7 @@
         }
       },
       {
-        "thumbUrl": "/images/dct-psikotest.jpg",
+        "thumbUrl": "portfolio-nanda/images/dct-psikotest.jpg",
         "title": "DCT Psikotest",
         "subTitle": "Web Design",
         "details": {
@@ -196,28 +196,28 @@
     },
     "allService": [
       {
-        "imgUrl": "/images/uiux-services-2.jpg",
+        "imgUrl": "portfolio-nanda/images/uiux-services-2.jpg",
         "title": "UI/UX Design",
         "subTitle": "I use Figma and Adobe XD to create interesting and stunning designs. With a focus on user experience, I strive to create solutions that meet your project needs and vision. From concept to implementation, I will work closely with you to ensure the success of the design produced.",
         "icon": "bi:brush-fill",
         "ratings": 5
       },
       {
-        "imgUrl": "/images/web-dev-services.jpg",
+        "imgUrl": "portfolio-nanda/images/web-dev-services.jpg",
         "title": "Website Development",
         "subTitle": "I developed the user interface with HTML, CSS, JavaScript, and React JS, and implemented the backend with Laravel for a responsive and efficient solution. From concept to launch, I ensure your website development is carried out with the utmost care and quality.",
         "icon": "bi:code-square",
         "ratings": 5
       },
       {
-        "imgUrl": "/images/mobile-app-dev-services.jpg",
+        "imgUrl": "portfolio-nanda/images/mobile-app-dev-services.jpg",
         "title": "Mobile Apps Development",
         "subTitle": "I develop mobile applications using Flutter, providing efficient cross-platform solutions. My focus is ensuring your app has the highest quality and engaging user experience. With a user-centric approach, I strive to create applications that meet user needs",
         "icon": "bi:code-square",
         "ratings": 4.5
       },
       {
-        "imgUrl": "/images/graphic-design-services-2.jpg",
+        "imgUrl": "portfolio-nanda/images/graphic-design-services-2.jpg",
         "title": "Graphic Design",
         "subTitle": "I produce stunning graphic designs with Adobe Photoshop and Illustrator. From logos to marketing materials, each of my pieces is created with attention to detail to perfectly reflect your brand. With a focus on creativity and quality, I am ready to help realize your design vision.",
         "icon": "bi:palette",
@@ -275,19 +275,19 @@
     "allTestimonial": [
       {
         "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
-        "avatarImg": "/images/avatar-1.jpg",
+        "avatarImg": "portfolio-nanda/images/avatar-1.jpg",
         "avatarName": "Pamela Anders",
         "avatarCompany": "Company Name"
       },
       {
         "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
-        "avatarImg": "/images/avatar-2.jpg",
+        "avatarImg": "portfolio-nanda/images/avatar-2.jpg",
         "avatarName": "Pamela Anders",
         "avatarCompany": "Company Name"
       },
       {
         "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
-        "avatarImg": "/images/avatar-3.jpg",
+        "avatarImg": "portfolio-nanda/images/avatar-3.jpg",
         "avatarName": "Pamela Anders",
         "avatarCompany": "Company Name"
       }
@@ -298,7 +298,7 @@
       "title": "Get in Touch!",
       "subTitle": "Feel free to contact me. I am always open to discussing new projects, creative ideas or opportunities to be part of your visions."
     },
-    "contactImg": "/images/home-nanda-2.png",
+    "contactImg": "portfolio-nanda/images/home-nanda-2.png",
     "contactInfo": [
       { "title": "e-mail", "email": "nandaraditya80@gmail.com" },
       { "title": "phone", "tel": "+62 821 2477 6437" }
