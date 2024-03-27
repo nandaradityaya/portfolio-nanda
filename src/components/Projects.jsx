@@ -45,8 +45,8 @@ export default function Projects({ data }) {
           <div
             className="full-width"
             data-aos="fade"
-            data-aos-duration="400"
-            data-aos-delay="100"
+            data-aos-duration="1200"
+            data-aos-delay="400"
           >
             <Slider {...settings} className="slider-gap-24">
               {allProjects?.map((item, index) => (
