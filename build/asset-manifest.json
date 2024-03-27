@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portfolio-nanda/static/css/main.1dbdb5fd.css",
+    "main.js": "/portfolio-nanda/static/js/main.ee9531aa.js",
+    "index.html": "/portfolio-nanda/index.html",
+    "main.1dbdb5fd.css.map": "/portfolio-nanda/static/css/main.1dbdb5fd.css.map",
+    "main.ee9531aa.js.map": "/portfolio-nanda/static/js/main.ee9531aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dbdb5fd.css",
+    "static/js/main.ee9531aa.js"
+  ]
+}
