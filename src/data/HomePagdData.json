@@ -28,31 +28,31 @@
   "brands": [
     {
       "src": "/images/figma-logo.png",
-      "alt": "Logolpsum"
+      "alt": "figma"
     },
     {
       "src": "/images/html-logo.png",
-      "alt": "Logolpsum"
+      "alt": "html"
     },
     {
       "src": "/images/javascript-logo.png",
-      "alt": "Logolpsum"
+      "alt": "javascript"
     },
     {
       "src": "/images/react-logo.png",
-      "alt": "Logolpsum"
+      "alt": "reactjs"
     },
     {
       "src": "/images/flutter-logo.svg",
-      "alt": "Logolpsum"
+      "alt": "flutter"
     },
     {
       "src": "/images/css-logo.png",
-      "alt": "Logolpsum"
+      "alt": "css"
     },
     {
       "src": "/images/xd-logo.png",
-      "alt": "Logolpsum"
+      "alt": "adobexd"
     }
   ],
   "about": {
@@ -198,28 +198,28 @@
       {
         "imgUrl": "/images/uiux-services-2.jpg",
         "title": "UI/UX Design",
-        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "subTitle": "I use Figma and Adobe XD to create interesting and stunning designs. With a focus on user experience, I strive to create solutions that meet your project needs and vision. From concept to implementation, I will work closely with you to ensure the success of the design produced.",
         "icon": "bi:brush-fill",
         "ratings": 5
       },
       {
         "imgUrl": "/images/web-dev-services.jpg",
         "title": "Website Development",
-        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "subTitle": "I developed the user interface with HTML, CSS, JavaScript, and React JS, and implemented the backend with Laravel for a responsive and efficient solution. From concept to launch, I ensure your website development is carried out with the utmost care and quality.",
         "icon": "bi:code-square",
         "ratings": 5
       },
       {
         "imgUrl": "/images/mobile-app-dev-services.jpg",
         "title": "Mobile Apps Development",
-        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "subTitle": "I develop mobile applications using Flutter, providing efficient cross-platform solutions. My focus is ensuring your app has the highest quality and engaging user experience. With a user-centric approach, I strive to create applications that meet user needs",
         "icon": "bi:code-square",
         "ratings": 4.5
       },
       {
         "imgUrl": "/images/graphic-design-services-2.jpg",
         "title": "Graphic Design",
-        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "subTitle": "I produce stunning graphic designs with Adobe Photoshop and Illustrator. From logos to marketing materials, each of my pieces is created with attention to detail to perfectly reflect your brand. With a focus on creativity and quality, I am ready to help realize your design vision.",
         "icon": "bi:palette",
         "ratings": 3
       }
