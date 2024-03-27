@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio-nanda/static/css/main.1d9047c6.css",
-    "main.js": "/portfolio-nanda/static/js/main.d7f48bca.js",
+    "main.js": "/portfolio-nanda/static/js/main.4fe839b1.js",
     "index.html": "/portfolio-nanda/index.html",
     "main.1d9047c6.css.map": "/portfolio-nanda/static/css/main.1d9047c6.css.map",
-    "main.d7f48bca.js.map": "/portfolio-nanda/static/js/main.d7f48bca.js.map"
+    "main.4fe839b1.js.map": "/portfolio-nanda/static/js/main.4fe839b1.js.map"
   },
   "entrypoints": [
     "static/css/main.1d9047c6.css",
-    "static/js/main.d7f48bca.js"
+    "static/js/main.4fe839b1.js"
   ]
 }
