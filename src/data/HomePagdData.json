@@ -1,6 +1,6 @@
 {
   "hero": {
-    "imgUrl": "./images/home-nanda-2.png",
+    "imgUrl": "./images/home-nanda.png",
     "name": "Nanda Raditya",
     "heading": "Hay! I’m Nanda",
     "typingText": ["I'm a Developer", 1500, "I'm a UI/UX Designer", 1500],
@@ -56,7 +56,7 @@
     }
   ],
   "about": {
-    "imgSrc": "./images/nanda.jpg",
+    "imgSrc": "./images/nanda.JPG",
     "miniTitle": "About Me",
     "title": "I AM AVAILABLE FOR <span>UI UX DESIGN</span> PROJECTS",
     "description": "I am a UI/UX Designer and Front-end Developer with a deep love for creating amazing digital experiences. With a background in design and development, I believe that a combination of creativity and technicality is the key to creating great products. Over the years, I have explored various projects from concept to launch, enriching myself with extensive knowledge in the industry. From mobile apps to websites, I bring solid design and development skills to ensure each project reaches its maximum potential. I am excited to continue learning and collaborating with individuals and teams to design innovative and meaningful solutions. Welcome to explore more about me and my works",

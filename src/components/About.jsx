@@ -10,7 +10,7 @@ export default function About({ data }) {
       <div className="container">
         <div className="effect-1">
           <img
-            src="portfolio-nanda/images/effect-1.svg"
+            src="./images/effect-1.svg"
             alt="Shape"
             data-aos="zoom-in"
             data-aos-duration="1000"
@@ -19,7 +19,7 @@ export default function About({ data }) {
         </div>
         <div className="effect-2">
           <img
-            src="portfolio-nanda/images/effect-2.svg"
+            src="./images/effect-2.svg"
             alt="Shape"
             data-aos="zoom-in"
             data-aos-duration="1000"
@@ -34,7 +34,7 @@ export default function About({ data }) {
             data-aos-delay="300"
           >
             <div className="about-banner text-center">
-              <img src={imgSrc} className="radius-10" alt="Thumb" />
+              <img src="./images/nanda.JPG" className="radius-10" alt="Thumb" />
             </div>
           </div>
           <div className="col-lg-6 col-xl-5 px-lg-5">

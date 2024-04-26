@@ -18,9 +18,9 @@ export default function Service({ data }) {
               <div
                 className="services-box"
                 style={{ backgroundImage: `url(${item.imgUrl})` }}
-                data-aos="fade-left"
-                data-aos-duration="1200"
-                data-aos-delay={index * 100}
+                // data-aos="fade-left"
+                // data-aos-duration="1200"
+                // data-aos-delay={index * 100}
               >
                 <div className="services-body">
                   <div className="icon">
