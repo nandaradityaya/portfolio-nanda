@@ -51,6 +51,14 @@
       "alt": "css"
     },
     {
+      "src": "./images/laravel-logo.svg",
+      "alt": "laravel"
+    },
+    {
+      "src": "./images/php-logo.svg",
+      "alt": "php"
+    },
+    {
       "src": "./images/xd-logo.png",
       "alt": "adobexd"
     }
