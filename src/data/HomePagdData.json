@@ -3,8 +3,8 @@
     "imgUrl": "./images/home-nanda.png",
     "name": "Nanda Raditya",
     "heading": "Hay! I’m Nanda",
-    "typingText": ["I'm a Developer", 1500, "I'm a UI/UX Designer", 1500],
-    "description": "I am a UI/UX Designer and Front-end Developer who is able to create engaging and highly competitive digital experiences. With a focus on innovative design and responsive development, I combine design and technical expertise to deliver stunning and functional solutions. Let's explore my works that combine inspiring aesthetics with powerful function",
+    "typingText": ["I'm a Developer", 1500, "I'm a Designer", 1500],
+    "description": "I am a Full Stack Developer who is able to build comprehensive and highly efficient digital solutions. With a focus on both backend functionality and frontend design, I combine technical and design expertise to deliver robust and user-friendly applications. Let's explore my work that merges seamless user experiences with solid and reliable infrastructure.",
     "btnText": "Get in touch",
     "btnUrl": "contactus"
   },
@@ -66,12 +66,12 @@
   "about": {
     "imgSrc": "./images/nanda.JPG",
     "miniTitle": "About Me",
-    "title": "I AM AVAILABLE FOR <span>UI UX DESIGN</span> PROJECTS",
-    "description": "I am a UI/UX Designer and Front-end Developer with a deep love for creating amazing digital experiences. With a background in design and development, I believe that a combination of creativity and technicality is the key to creating great products. Over the years, I have explored various projects from concept to launch, enriching myself with extensive knowledge in the industry. From mobile apps to websites, I bring solid design and development skills to ensure each project reaches its maximum potential. I am excited to continue learning and collaborating with individuals and teams to design innovative and meaningful solutions. Welcome to explore more about me and my works",
+    "title": "I AM AVAILABLE FOR <span>Web and Mobile App</span> PROJECTS",
+    "description": "I am a Full Stack Developer with a deep love for creating amazing digital experiences. With a background in design and development, I believe that a combination of creativity and technicality is the key to creating great products. Over the years, I have explored various projects from concept to launch, enriching myself with extensive knowledge in the industry. From mobile apps to websites, I bring solid design and development skills to ensure each project reaches its maximum potential. I am excited to continue learning and collaborating with individuals and teams to design innovative and meaningful solutions. Welcome to explore more about me and my works",
     "funfacts": [
       {
         "title": "Years Experience",
-        "number": 2
+        "number": 3
       },
       {
         "title": "Completed Projects",
@@ -260,17 +260,22 @@
         ]
       },
       {
-        "designation": "Front-end Developer",
+        "designation": "Full Stack Developer",
         "company": "PT. Wisesa Consulting",
         "duration": "JAN 2024 - PRESENT",
         "jobType": "Full time",
         "companyTitle": "About Company",
         "companyDescription": [
-          "Design visually appealing and user-friendly websites with high-fidelity mockups.",
-          "Conduct usability testing to gather valuable user feedback for design refinement.",
-          "Implement user interface designs (UI Design) into front-end web code using technologies like HTML, CSS, and JavaScript, with a focus on ReactJS for dynamic and responsive solutions.",
-          "Develop and mantain design system",
-          "Collaborate closely with project managers and developers throughout the design and development process"
+          "Develop web applications using Laravel for backend and React.js for frontend, ensuring dynamic and responsive solutions.",
+          "Design and implement database structures and develop RESTful APIs to support application functionality.",
+          "Build high-performance mobile applications using Flutter, ensuring compatibility across multiple platforms.",
+          "Design UI/UX for web and mobile applications, focusing on intuitive interfaces and optimal user experiences.",
+          "Optimize the performance of web and mobile applications to ensure fast response times and smooth user interactions.",
+          "Conduct debugging and testing to ensure application quality and stability before release.",
+          "Collaborate closely with developers and stakeholders to understand business needs and ensure features meet specifications.",
+          "Maintain and enhance existing systems, adding new features based on user feedback and business requirements.",
+          "Manage code versioning and development workflows using version control tools like Git",
+          "Stay up-to-date with the latest web and mobile development technologies to continuously improve application quality"
         ]
       }
     ]
