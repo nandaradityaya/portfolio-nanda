@@ -240,6 +240,25 @@
     },
     "allExperience": [
       {
+        "designation": "Full Stack Developer",
+        "company": "PT. Wisesa Consulting",
+        "duration": "JAN 2024 - PRESENT",
+        "jobType": "Full time",
+        "companyTitle": "About Company",
+        "companyDescription": [
+          "Develop web applications using Laravel for backend and React.js for frontend, ensuring dynamic and responsive solutions.",
+          "Design and implement database structures and develop RESTful APIs to support application functionality.",
+          "Build high-performance mobile applications using Flutter, ensuring compatibility across multiple platforms.",
+          "Design UI/UX for web and mobile applications, focusing on intuitive interfaces and optimal user experiences.",
+          "Optimize the performance of web and mobile applications to ensure fast response times and smooth user interactions.",
+          "Conduct debugging and testing to ensure application quality and stability before release.",
+          "Collaborate closely with developers and stakeholders to understand business needs and ensure features meet specifications.",
+          "Maintain and enhance existing systems, adding new features based on user feedback and business requirements.",
+          "Manage code versioning and development workflows using version control tools like Git",
+          "Stay up-to-date with the latest web and mobile development technologies to continuously improve application quality"
+        ]
+      },
+      {
         "designation": "UI/UX Engineer",
         "company": "PT. Enseval Putera Megatrading, Tbk",
         "duration": "Aug 2022 - Dec 2023",
@@ -257,25 +276,6 @@
           "Implemented user interface designs (UI Design) into front-end mobile application code using Flutter technology",
           "Collaborated closely with development teams and stakeholders to ensure alignment between design and product functionality",
           "Ensured the final product adhered to design principles, performance standards, and user requirements"
-        ]
-      },
-      {
-        "designation": "Full Stack Developer",
-        "company": "PT. Wisesa Consulting",
-        "duration": "JAN 2024 - PRESENT",
-        "jobType": "Full time",
-        "companyTitle": "About Company",
-        "companyDescription": [
-          "Develop web applications using Laravel for backend and React.js for frontend, ensuring dynamic and responsive solutions.",
-          "Design and implement database structures and develop RESTful APIs to support application functionality.",
-          "Build high-performance mobile applications using Flutter, ensuring compatibility across multiple platforms.",
-          "Design UI/UX for web and mobile applications, focusing on intuitive interfaces and optimal user experiences.",
-          "Optimize the performance of web and mobile applications to ensure fast response times and smooth user interactions.",
-          "Conduct debugging and testing to ensure application quality and stability before release.",
-          "Collaborate closely with developers and stakeholders to understand business needs and ensure features meet specifications.",
-          "Maintain and enhance existing systems, adding new features based on user feedback and business requirements.",
-          "Manage code versioning and development workflows using version control tools like Git",
-          "Stay up-to-date with the latest web and mobile development technologies to continuously improve application quality"
         ]
       }
     ]
